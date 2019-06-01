@@ -1,10 +1,4 @@
-CODE OF ARDUINO FOR HOME AUTOMATION
 
-
-
-
-
-//Arduino code
 #include <SoftwareSerial.h>
 SoftwareSerial s(5,6);
 int sensorPin = A0; // select the input pin for LDR
